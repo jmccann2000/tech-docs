@@ -1,0 +1,16 @@
+{
+  "name": "techdocsdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "techdocs-cli serve --no-docker",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jakus",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@techdocs/cli": "^1.0.0"
+  }
+}

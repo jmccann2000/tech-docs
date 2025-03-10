@@ -1,0 +1,24 @@
+site_name: My Local TechDocs Site
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  features:
+    - search.highlight
+    - search.share
+
+nav:
+  - Home: index.md
+  - Forum: forum/index.md
+  - Addins:
+      - Available Addins: addins/index.md
+      - Acumatica:
+          - Overview: addins/acumatica/index.md
+      - Solidworks:
+          - Overview: addins/solidworks/index.md
