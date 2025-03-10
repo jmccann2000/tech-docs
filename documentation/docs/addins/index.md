@@ -1,6 +1,6 @@
 # Addins
 
-Welcome to the Addins section. Here you'll find documentation on various addins supported by CADTalk.
+Welcome to the Addins section. Here you'll find documentation on various addins supported by CADTalk. Test Test Test
 
 ## Available Addins
 
