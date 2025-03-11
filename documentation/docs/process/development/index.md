@@ -1,0 +1,1 @@
+This is truly! development statements of procedure. I'm not trying very hard on this, just some meditative document copying to a cleaner location.

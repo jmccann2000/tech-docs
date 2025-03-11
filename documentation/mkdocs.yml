@@ -15,6 +15,10 @@ theme:
 
 nav:
   - Home: index.md
+  - Process:
+      - Development:
+          - Overview: process/development/index.md
+          - Story Points: process/development/story_points.md
   - Forum: forum/index.md
   - Addins:
       - Available Addins: addins/index.md
