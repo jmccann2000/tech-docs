@@ -1,4 +1,4 @@
-site_name: My Local TechDocs Site
+site_name: CADTalk Documentation
 
 theme:
   name: material
@@ -19,6 +19,7 @@ nav:
       - Development:
           - Overview: process/development/index.md
           - Story Points: process/development/story_points.md
+          - Log Maintenence: process/development/log_maintenance.md
   - Forum: forum/index.md
   - Addins:
       - Available Addins: addins/index.md
@@ -26,3 +27,7 @@ nav:
           - Overview: addins/acumatica/index.md
       - Solidworks:
           - Overview: addins/solidworks/index.md
+
+
+
+          
