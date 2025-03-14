@@ -1,4 +1,5 @@
 site_name: CADTalk Documentation
+repo_url: https://github.com/jmccann2000/tech-docs  # Link to your GitHub/GitLab repo
 
 theme:
   name: material
@@ -17,12 +18,19 @@ nav:
   - Home: index.md
   - Process:
       - Development:
+          - Sprint Rituals:
+              - process/development/sprint_rituals/sprint_schedule.md
+              - process/development/sprint_rituals/sprint_planning.md
+              - process/development/sprint_rituals/show_and_tell.md
+              - process/development/sprint_rituals/sprint_retrospective.md
+              - process/development/sprint_rituals/epic_refinement.md
+              - process/development/sprint_rituals/backlog_refinement.md
           - Overview: process/development/index.md
           - Story Points: process/development/story_points.md
           - Log Maintenence: process/development/log_maintenance.md
   - Forum: forum/index.md
   - Addins:
-      - Available Addins: addins/index.md
+      - Addins: addins/index.md
       - Acumatica:
           - Overview: addins/acumatica/index.md
       - Solidworks:

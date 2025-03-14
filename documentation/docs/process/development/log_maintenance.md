@@ -48,7 +48,7 @@ For each of the **top two errors**, create a **Bug** in our work tracking system
 [//]: # (TODO: Add step-by-step navigation instructions)
 
 ### **1. Access Loupe**
-You can access loupe at [onloupe.com](http://onloupe.com/). You will need to reach out to your team lead if you do not have credentials.
+You can access Loupe at [onloupe.com](http://onloupe.com/). You will need to reach out to your team lead if you do not have credentials.
 
 ### **2. Find the Error List**
 To find the list of unique errors and their occurrences, select "Resolve" from the left hand navigation pane. Then select 
